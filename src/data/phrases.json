@@ -1,0 +1,893 @@
+{
+    "levels": {
+      "1": [
+        {
+          "hindi": "Dost, kaise ho",
+          "nagamese": "Sathi, kinika ase",
+          "wanchoLower": "Mai mai tai cha roikhoi",
+          "wanchoUpper": "Goipa, nang mai-mai thangja?",
+          "konyak": "Shempa hangke ngoh nang ki ?"
+        },
+        {
+          "hindi": "Good Morning dost",
+          "nagamese": "Good morning sathi",
+          "wanchoLower": "Good morning roi khoi mai hai (Shedan Roikhoi)",
+          "wanchoUpper": "Mai-mai ne khoi",
+          "konyak": "Niipmei shempo."
+        }
+      ],
+      "2": [
+        {
+          "hindi": "Main Kukho Hoshi Phek ka hoon",
+          "nagamese": "Moi Kukho Hoshi Phek laga ase",
+          "wanchoLower": "Ku kukho hoshi phek an pa",
+          "wanchoUpper": "Koi Longding ma pu",
+          "konyak": "Tao- a kukho Hoshi phek me ngoh nang or ching nyoi nang"
+        },
+        {
+          "hindi": "Aap kahan se ho",
+          "nagamese": "Apuni kot para ase",
+          "wanchoLower": "Nang ozong to pa",
+          "wanchoUpper": "Nang ajong manne?",
+          "konyak": "Nang ampii ken me pii shi ?"
+        }
+      ],
+      "3": [
+        {
+          "hindi": "Yeh gari apke gaon jayega",
+          "nagamese": "Itu gari apuni bosti jabo",
+          "wanchoLower": "Eja gori hanzam ting to pow ai hiya",
+          "wanchoUpper": "Aga gari nam nok ka baih ai che?",
+          "konyak": "Taoh gari niiman ching te tai tak iija."
+        },
+        {
+          "hindi": "Meinyahan bhaut din raha tha",
+          "nagamese": "Moi yate besi din thakise",
+          "wanchoLower": "Ku ekha ma rari din ngo dow pa",
+          "wanchoUpper": "Koi ama maima chong maan",
+          "konyak": "Taoh nyoi ching me tao a hipak laow linge ngoh yangki"
+        }
+      ],
+      "4": [
+        {
+          "hindi": "App jane pahchane lagte ho",
+          "nagamese": "Apuni jana nishina lage",
+          "wanchoLower": "Nang ngan dow pa lai lai",
+          "wanchoUpper": "Koi ye nang chaam ngan phai ley taga",
+          "konyak": "Tao e nang ame muh shing pii kih nangki,"
+        },
+        {
+          "hindi": "App kaha rahte hain",
+          "nagamese": "Apuni kote thake",
+          "wanchoLower": "Nang ozong to ngo pu",
+          "wanchoUpper": "Nang ajong ma chong tai-o?",
+          "konyak": "Nang iimpii ken me ngoh nangki?"
+        }
+      ],
+      "5": [
+        {
+          "hindi": "App kis basti se ho",
+          "nagamese": "Apuni kontu bosti para ase",
+          "wanchoLower": "Nang owa nok",
+          "wanchoUpper": "Nang au nok?",
+          "konyak": "Nang ao ching me pii shi ?"
+        },
+        {
+          "hindi": "Oh ho sir app pastor ho na",
+          "nagamese": "Oh ho! Sir apuni pastor ase na",
+          "wanchoLower": "Oh ho sir nang pastor dai hiya",
+          "wanchoUpper": "Oh nang Pastor ngaih ne?",
+          "konyak": "Oh ho, Nang a pastor ji nang pii ma?"
+        }
+      ],
+      "6": [
+        {
+          "hindi": "Mene abhi paichana app ko",
+          "nagamese": "moi etiya jani jaishe apuni ke",
+          "wanchoLower": "Ku ea nang athah tih awan ley",
+          "wanchoUpper": "Koiye ale nang han tingonga",
+          "konyak": "Tao e Sha a nak shik nangte shing ok peih."
+        },
+        {
+          "hindi": "App Ram ho na",
+          "nagamese": "Apuni Ram ase na",
+          "wanchoLower": "Nang Ram ngaih ne? Nang ram chang cha",
+          "wanchoUpper": "Nang thau ka Ram ngaih ne?",
+          "konyak": "Nang a Ram ama?"
+        }
+      ],
+      "7": [
+        {
+          "hindi": "App pahle member bhi the",
+          "nagamese": "Apuni poila member bhi thakishe",
+          "wanchoLower": "Nang howang ea chu member ang ngodaw pa dai mi",
+          "wanchoUpper": "Nang thau ka member thang maan",
+          "konyak": "Nang a ame miih member ne ngoh yangki."
+        },
+        {
+          "hindi": "Yahan app ka phone number hai",
+          "nagamese": "Yate apuni laga phone no. ase",
+          "wanchoLower": "Ekha ma nang phon number tai cha",
+          "wanchoUpper": "Ama nang phone number taga",
+          "konyak": "Taoh me nangjing mobile number ngoh nangki."
+        }
+      ],
+      "8": [
+        {
+          "hindi": "Thik hai Ram badmein milenge",
+          "nagamese": "Thik ase de Ram, pichete log pabo",
+          "wanchoLower": "Jo tih ram phai ma apong ngo hah",
+          "wanchoUpper": "Joh, Ram phai ma chaam pong khah",
+          "konyak": "Eih oh Ram phei me hao kei."
+        },
+        {
+          "hindi": "Acche se jana",
+          "nagamese": "Bhal pra jabi",
+          "wanchoLower": "Mai mai pow lah nyi",
+          "wanchoUpper": "Mai-mai baih an",
+          "konyak": "Meie tai yah."
+        }
+      ],
+      "9": [
+        {
+          "hindi": "App ghadi se jao",
+          "nagamese": "Apuni gari para jabi",
+          "wanchoLower": "Nang gari ma pow lah nyi",
+          "wanchoUpper": "Nang ghadi manne baih an",
+          "konyak": "Nang a ghadi me tai yah."
+        },
+        {
+          "hindi": "Mein paidal jaunga",
+          "nagamese": "Moi paidal jabo",
+          "wanchoLower": "ku chama pow ai",
+          "wanchoUpper": "Koi kaam le baih ai",
+          "konyak": "Tao a ya me tai tak eih."
+        }
+      ],
+      "10": [
+        {
+          "hindi": "Phone karna",
+          "nagamese": "Phone kuribi de",
+          "wanchoLower": "Phone kori hai nyi",
+          "wanchoUpper": "Phone pha you.",
+          "konyak": "Phone ne meang pha."
+        },
+        {
+          "hindi": "Bye bye acche se jana",
+          "nagamese": "Bye bye de, bhal pora jabi",
+          "wanchoLower": "Bye bye mai mai pow lah nyi",
+          "wanchoUpper": "Bye bye, mai le baih an",
+          "konyak": "Bye, bye mei e tai yah."
+        }
+      ],
+      "11": [
+        {
+          "hindi": "Mein, Mera, Mere paas/ Mere sath, Mein hi, Mujhe/Mujhko, Mere liye, Mere se, Mere najdik",
+          "nagamese": "Moi, Moi laga, Moi logote, Moi hi, Moike, Moi karane, Moi para, Moi osorte",
+          "wanchoLower": "Koi yapu, Koi phe, Koi ga, Koi/Koi kah, Koiya, Koi hanpak ma, Ku phai, Ku chingne, Koi naam me.",
+          "wanchoUpper": "Ku, Kukuh, Ku hama, Koi, Ku Phai tam lay, Ku ma/Koi wai, ku ang, Ku roima",
+          "konyak": "iiching, iishishao me, iiphei Jam se, fao iite/ taote, Tao hanpak ma, taote, iishong ye, me."
+        },
+        {
+          "hindi": "Aap ka, Aap ko, Aap se, Aap hi, Aap ke paas/sath, Aapke liye, Aap ke Najdik",
+          "nagamese": "Apuni, Apuni laga, Apuni ke, Apuni para, Apuni hi, Apuni logote, Apuni Karane, Apuni osorte",
+          "wanchoLower": "Nangte, Nanghei, Nang ngapu, Nangching, Nang kah, Nang man ne, Nang ye, Nang hanpak, Nang chen ma",
+          "wanchoUpper": "Nang, Nang kah, nang wai, nang hama/ nang phai lain lay/ nang ma/phe, Nang hanpak mal nang roi e",
+          "konyak": "Nang, Nang ngapu, Nangching, Nangphei, Nangshangme, Nangphei jam se"
+        }
+      ],
+      "12": [
+        {
+          "hindi": "Aap log, Aap logon ka, Aap logon ko, Aap logon hi, Aap logo ke paas / sath, Aap logon ke liye, Aap logon se, Aap logon ke najdik",
+          "nagamese": "Apuni khan, Apuni khan laga, Apuni khan ke, Apuni Khan hi, Apuni khan logote, Apuni khan karne, Apuni khan para, Apuni khan osorte",
+          "wanchoLower": "Nam, Namme, Numan, Numante, Numanhei, Namkah, Namma/phe, Namhanpak ma, Nam chen ma, Numan shongme / Numan phei jam se, numan chingne, Numante, shong me",
+          "wanchoUpper": "Hanzam, hanzam kuh, hanzam hanpak ma, hanzam wai, hanzam hama/ hanzam phai tam lay, hanzam akam ma, hanzam roima",
+          "konyak": "Numanching, Nammapu, Numan, Numante, Numanhei, Numan shongme / Numan phei jam se, numan chingne, Numante, shong me"
+        },
+        {
+          "hindi": "Wah, Uska, Usko, Usse /Usne, Wah hi, Uske paas/sath, Uske liye, Uske najdik",
+          "nagamese": "Tai, Tai laga, Tai ke, Tai para, Tai hi, Tai logote, Tai karane, Tai osorte,",
+          "wanchoLower": "Jai, chihkuh, chihto, chik phai, chik ea, chih hama, chih hanpak ma, ham wai hija",
+          "wanchoUpper": "Kau, Kauapu, Kau ka, Kauphe/Kauye, Kau thangpu, Kau ma/phe, Kau hanpak ma, Kau chen ma",
+          "konyak": "Taohme, e-ching, e-te, e-phei / e-ye, taoh hei, e shongme/ e phei jam se, e chingne, e- phei o-we"
+        }
+      ],
+      "13": [
+        {
+          "hindi": "Wah log, Un logon ka, Un logon ko, Wah log hi, Un logon ke paas/sath, Un logon ke liye, Un logon se/ne, Un logon ke najdik",
+          "nagamese": "Tai khan, Tai khan laga, Tai khan ke, Tai khan hi, Tai khan logote, Tai khan karane, Tai khan para, Tai khan osorte",
+          "wanchoLower": "Hom hija, hom kuh, hom hanpak ma, hom wai hija, hom phai lain ley, hom honpak ma, hom ea hija, hom roi ma",
+          "wanchoUpper": "Kom, Komka, Komye, Kom ma/phe, Kom hanpak ma, Kom manjingne, Kom jam se, Kom shong me",
+          "konyak": "Kommapu, eman, e- manching, e- mante, e manhei, e shongme, e-man phei jam se, e- manjingne, e-man-e, e-man shong me."
+        },
+        {
+          "hindi": "Yah, Iska, Isko, Isse, Yah hi, Iske pass/sath, Iske liye, Iske najdik",
+          "nagamese": "Itu, Itu laga, Itu ke, Itu para, Itu he, Itu logote, Itu karne, Itu osorte",
+          "wanchoLower": "Eja, chih kuh, chihto, chih phai, eja lija, chik ma, chik han pakma, chih roima",
+          "wanchoUpper": "Aga, Aga hanpak, Aga ka, Aga-e, Aga-Aga, Aga pama/phe, Aga hanpak, Aga chen ma",
+          "konyak": "Taoh, e-ching, e-fe, e-ye, taoh hei, e-yak mel e- phei jam se, e-jingne, e- shong me."
+        }
+      ],
+      "14": [
+        {
+          "hindi": "Wah, Uska, Usko, Usse, Wah he, Uske pass/sath, Uske liye, Usne/Usse, Uske pass/Najdik",
+          "nagamese": "Utu, Utu laga, Utu ke, Utu para, Utu he, Utu logote, Utu karne, Utu para, Utu osorte",
+          "wanchoLower": "Jai, chih kah, chihto, chih phai,",
+          "wanchoUpper": "Kau, Kauapu, Kau ka, Kauphe/Kauye, Kau thangpu, Kau ma/phe",
+          "konyak": "e- man, e-jing, e-te, e-ye, e-phei, e- shongme/ e- phei jam se, e-jingne, taoh-e, taoh phei, e-phei jam se/ e phei o - we"
+        },
+        {
+          "hindi": "Kya, Kon, Kaha, Kisliye, Kab, Kaunsa, Kiska, Kisko, Kya ke liye, Kab se, Kaise",
+          "nagamese": "Ki, Kon, Kote, Kile, Kitia, Kontu, Kon laga, Kon ke, Ki karne, Kitia para, Kinika",
+          "wanchoLower": "Tem, owa, ozongma, len hanpak ma, ongai, owa kuh, owalo, temlanpak ma, ongai khang ea, temley",
+          "wanchoUpper": "Phang, Au, Ajong ma, Phang-a, Maye, Upu-pu, Au-a pu, Au-ka, Phang haan pakma, Maye pu, manne, Phang bele",
+          "konyak": "Hanghi, Aohi, Ame-me, Upu-pu, Hangjingne, Aope, A- mongpa, Aohi- jingshi, Aohi te, tam mang e Amei me khang, meimei ngoh yah, khao me"
+        }
+      ],
+      "15": [
+        {
+          "hindi": "Kyon ki, Isliye, Usliye, Aise, Jaise, Kuchh",
+          "nagamese": "kilemane, itu karne, utu karne, Inika, Jinika, Kiba",
+          "wanchoLower": "Tem tkai koh ley, eja hanpak ma, tatali",
+          "wanchoUpper": "Phang hanpakma,",
+          "konyak": "Hangyangphoi, taoh ne jiya phoi, Ao-ji yah phoi, hango jiyah phoi."
+        },
+        {
+          "hindi": "Is taraf, Us taraf, Yahan, Wahan",
+          "nagamese": "Itu phale, Utu phale, Yate, Tate,",
+          "wanchoLower": "Echito, chih Phale, eleya ne, Jaji",
+          "wanchoUpper": "ekha, chakha Agan-ne, Gagan- ne, Jaji",
+          "konyak": "Taohjingne, Taohpa jingne, hukes, taoh kihe, Tam."
+        }
+      ],
+      "16": [
+        {
+          "hindi": "Lekin/ Hone se bhi, Koi bhi hone se bhi, Kya-kya hone se bhi.",
+          "nagamese": "Hoilebi, Nahoilebi, Konuba hoilebi, Ki ki hoilebi,",
+          "wanchoLower": "Aih mahaa, taikoh chu, tata tai koh chu, Talati chang koh chu",
+          "wanchoUpper": "Thaba je, Acha cha thang beje, Cheji-cheji thang beje",
+          "konyak": "Ao ji ya phoi, Ao-o anang."
+        },
+        {
+          "hindi": "Koi hone se bhi, Ek bhi nahi hai",
+          "nagamese": "Kontu hoilebi, ekta bi nahoi",
+          "wanchoLower": "Owa chang koh chu, Toita chu man tai",
+          "wanchoUpper": "Acha cha thang beje, Cha je man tai",
+          "konyak": "Taohpa ye khao me, Taohme, she- jai pu me."
+        }
+      ],
+      "17": [
+        {
+          "hindi": "Main",
+          "nagamese": "Moi",
+          "wanchoLower": "Ku ham to pow ai",
+          "wanchoUpper": "Koi kam ma laih",
+          "konyak": "Ko/fao nok te tai peih."
+        },
+        {
+          "hindi": "Hum",
+          "nagamese": "Aami",
+          "wanchoLower": "Ku ea tatali mat chemok ai",
+          "wanchoUpper": "Koiye aley mon lam",
+          "konyak": "Ko/fao tai ja linglak ngai nangki."
+        }
+      ],
+      "18": [
+        {
+          "hindi": "Aap",
+          "nagamese": "Apuni",
+          "wanchoLower": "Nang Man tem mok ai",
+          "wanchoUpper": "Nam-e koi ngau pa- an",
+          "konyak": "Nangte hangke min pu shi."
+        },
+        {
+          "hindi": "Tu",
+          "nagamese": "Tui",
+          "wanchoLower": "Nang Man au?",
+          "wanchoUpper": "",
+          "konyak": "E-a ampu kente tai pu shi."
+        }
+      ],
+      "19": [
+        {
+          "hindi": "Hum dono",
+          "nagamese": "Ami jon",
+          "wanchoLower": "Khato Nang ika pau an",
+          "wanchoUpper": "",
+          "konyak": "Tumi Kah te tai hah."
+        },
+        {
+          "hindi": "Aap dono",
+          "nagamese": "Apuni jon/Apuni dui jon",
+          "wanchoLower": "Nang eja powlah wai",
+          "wanchoUpper": "Koisa mihnu na",
+          "konyak": "Nang nye te hangke min pu shi?"
+        }
+      ],
+      "20": [
+        {
+          "hindi": "Tum dono",
+          "nagamese": "Tumi jon/ Tummi dui jon",
+          "wanchoLower": "Kuni tham ka pau- tan ai",
+          "wanchoUpper": "",
+          "konyak": "Nang nye te hangke min pu shi ?"
+        },
+        {
+          "hindi": "Hum log",
+          "nagamese": "Ami khan",
+          "wanchoLower": "Kinji amma ni powhah",
+          "wanchoUpper": "thangpu",
+          "konyak": "Tuman/moilan jam se toi lingne tai hah"
+        }
+      ],
+      "21": [
+        {
+          "hindi": "Tum log",
+          "nagamese": "Tui khan",
+          "wanchoLower": "Hangkhi ching cha Nang lah ley ekhato hai sepia kai hai",
+          "wanchoUpper": "maima kubo",
+          "konyak": "Numan/Numan moilan yopnok tai"
+        },
+        {
+          "hindi": "Tum log",
+          "nagamese": "Tumi khan",
+          "wanchoLower": "Nang ni gama mon Hangkhi ekha to mok an mok lah",
+          "wanchoUpper": "khunyek thang pu",
+          "konyak": "Tuman nok me naha tem ngoh"
+        }
+      ],
+      "22": [
+        {
+          "hindi": "Patni/ Aurat",
+          "nagamese": "Maiki",
+          "wanchoLower": "Kem-e tai bo-ai",
+          "wanchoUpper": "Mihpa am akau am tapu",
+          "konyak": "ya-a iiching sheko/sheko nyu yong ngoh nang."
+        },
+        {
+          "hindi": "Pati/ Ladka",
+          "nagamese": "Mota",
+          "wanchoLower": "Kukhi trai ngow ai",
+          "wanchoUpper": "paikai",
+          "konyak": "e-a iiching Natan/ Natan Payong ngoh nang."
+        }
+      ],
+      "23": [
+        {
+          "hindi": "Baachcha (beta/beti)",
+          "nagamese": "Bachcha",
+          "wanchoLower": "Nam-e kam phot an",
+          "wanchoUpper": "Nam nausa phang- an-e tai-yo?",
+          "konyak": "Nok me Nao ya wangngai."
+        },
+        {
+          "hindi": "Chhokri",
+          "nagamese": "Chhokri",
+          "wanchoLower": "Hanzam mol ham ku ea atrow koh",
+          "wanchoUpper": "baley",
+          "konyak": "Nao shi lan pan (morung) me nang."
+        }
+      ],
+      "24": [
+        {
+          "hindi": "Chhokra",
+          "nagamese": "Chhokra",
+          "wanchoLower": "Hanzam nowsasako Ku ea kahma loh koh",
+          "wanchoUpper": "Iga nya chebi-chebi jem",
+          "konyak": "Tuman nok me Naha naoya ja gong ngoh nang,"
+        },
+        {
+          "hindi": "Jawan Chhokri",
+          "nagamese": "Jawan Chhokri",
+          "wanchoLower": "Ku chang pu",
+          "wanchoUpper": "Eja shakorari mai taga ley",
+          "konyak": "Tuman nok me Naha naoshi ja ngoh nang,"
+        }
+      ],
+      "25": [
+        {
+          "hindi": "Jawan Chhokra",
+          "nagamese": "Jawan Chhokra",
+          "wanchoLower": "Laka bu ekha to hai hai",
+          "wanchoUpper": "Iga ma nautha nya cheta pu",
+          "konyak": "Noksa me jei yong lan e ngao nang."
+        },
+        {
+          "hindi": "Bade Log",
+          "nagamese": "Dangor Manu",
+          "wanchoLower": "Nang nowsa tai pu",
+          "wanchoUpper": "Kam ma phen nya tapu",
+          "konyak": "Nok sa me Naha lan/ ha yim lan (Children) ngao jai lak wongpong."
+        }
+      ],
+      "26": [
+        {
+          "hindi": "Bachche Log",
+          "nagamese": "Bachcha Manu",
+          "wanchoLower": "Laka ma trak tailey",
+          "wanchoUpper": "Nausalo dam taiga",
+          "konyak": "Opa (father) wo pa/ Ayu - pa ne meang te ke ngo ley"
+        },
+        {
+          "hindi": "Buddha",
+          "nagamese": "Bura",
+          "wanchoLower": "Chih mikpa rianna",
+          "wanchoUpper": "Taikapa deephai galey",
+          "konyak": "Naha/ Nao hango ashingpu (innocent) yaphen me ngoh nang."
+        }
+      ],
+      "27": [
+        {
+          "hindi": "Budhiya",
+          "nagamese": "Buri",
+          "wanchoLower": "Mihnu oma an",
+          "wanchoUpper": "Taikanu ajong ma pau-o?",
+          "konyak": "onyu (mother) wo - nyu / Ayu - nu ne meang te ke."
+        },
+        {
+          "hindi": "Pita",
+          "nagamese": "Baba",
+          "wanchoLower": "Apa Kak lan ngo ley",
+          "wanchoUpper": "Apa kak chong tapu",
+          "konyak": "Onyu / anyu Nok me ngoh nang."
+        }
+      ],
+      "28": [
+        {
+          "hindi": "Maa",
+          "nagamese": "Aama",
+          "wanchoLower": "Anu ham ma ngo ley",
+          "wanchoUpper": "Amoh kam chong tapu",
+          "konyak": "Nok me jei yong pa te Ajong/ Ajongpa she nyik nang."
+        },
+        {
+          "hindi": "Bade Bhai",
+          "nagamese": "Dada/ Kokai",
+          "wanchoLower": "Ku ang achong toita tai ley",
+          "wanchoUpper": "Koiphe Achai cha le tapu",
+          "konyak": "Nok me jei yong nyu te onya yong/ yongyu she nyik nang"
+        }
+      ],
+      "29": [
+        {
+          "hindi": "Didi",
+          "nagamese": "Didi",
+          "wanchoLower": "Ku ang ana man tai",
+          "wanchoUpper": "Koi ma Aja mantai",
+          "konyak": "Nok me naole nyes te onya joi/ onya joi she nyik nang."
+        },
+        {
+          "hindi": "Behen",
+          "nagamese": "Buhini",
+          "wanchoLower": "Ku now ea tai anon go ley",
+          "wanchoUpper": "Koi nau-nya- e lainau tapu",
+          "konyak": "Nok me naole pa te shimei/ ojei joi she nyuik nang."
+        }
+      ],
+      "30": [
+        {
+          "hindi": "Bhai",
+          "nagamese": "Bhai",
+          "wanchoLower": "Chih honow nat ley",
+          "wanchoUpper": "Kau nauchai kuphanne la tapu",
+          "konyak": "Nok me opa joi sheko te onyes joi she nyik nang."
+        },
+        {
+          "hindi": "Chota Mausi",
+          "nagamese": "Choto Aama",
+          "wanchoLower": "Ku honusa ting to ngo ley",
+          "wanchoUpper": "Aki na nok ma chong tapu",
+          "konyak": "Naole pa te opa joi se nyik nang."
+        }
+      ],
+      "31": [
+        {
+          "hindi": "Chacha",
+          "nagamese": "Choto Baba",
+          "wanchoLower": "Ku apasa ea altah chu sako ma lah",
+          "wanchoUpper": "Pasa ale kapai le mihnu malah",
+          "konyak": "Te nok me iijing sheko nyes wangle mei nang."
+        },
+        {
+          "hindi": "Bara Mausi",
+          "nagamese": "Dangor Aama",
+          "wanchoLower": "Ku anu achong pa ang nowsa ma tai",
+          "wanchoUpper": "Amohthong ma kausa mantai",
+          "konyak": "Fao a Payong he meang te ke."
+        }
+      ],
+      "32": [
+        {
+          "hindi": "Aap ka naam kya Hai?",
+          "nagamese": "Apuni laga naam ki ase",
+          "wanchoLower": "Nang maan Ao?",
+          "wanchoUpper": "Nang man au?",
+          "konyak": "Nang te hangke min pii shi ?"
+        },
+        {
+          "hindi": "Aap kaise ho?",
+          "nagamese": "Apuni kinika ase",
+          "wanchoLower": "Nang mai mai wai nyi",
+          "wanchoUpper": "Nang mai-mai thangja?",
+          "konyak": "Nang hangke ngoh nang ki?"
+        }
+      ],
+      "33": [
+        {
+          "hindi": "Aap ka gaon kahan hai?",
+          "nagamese": "Apuni laga bosti kote ase",
+          "wanchoLower": "Nang owa nok am-me",
+          "wanchoUpper": "Nam nok ajong ma tai- o?",
+          "konyak": "Nang ching (gaon) ngoh nang ki?"
+        },
+        {
+          "hindi": "Aap ke Ghar mein kaun kaun?",
+          "nagamese": "Apuni laga Ghor te kiman jon ase.",
+          "wanchoLower": "Nang ham to khanyek ao ao tailey?",
+          "wanchoUpper": "Nam kam ma au-au tai-o?",
+          "konyak": "Ne Nok me ao ao ngoh nang ki ?"
+        }
+      ],
+      "34": [
+        {
+          "hindi": "Aap ke kitne bachha hai?",
+          "nagamese": "Apuni laga kiman bachha ase.",
+          "wanchoLower": "Nang nowsam obi tai pu",
+          "wanchoUpper": "Nangsa ubi tai-o?",
+          "konyak": "Nang ha yim hangshen ngoh hang ki?"
+        },
+        {
+          "hindi": "Aap ka bachha kya karta hai?",
+          "nagamese": "Apuni laga bachha ki kure",
+          "wanchoLower": "Nang nowsa ea tem mok pu",
+          "wanchoUpper": "Nangsa-e phang mok tai-o?",
+          "konyak": "Nang he yim lan e hang ling nang ki ?"
+        }
+      ],
+      "35": [
+        {
+          "hindi": "Aapka bachha konse school mein padhta hai?",
+          "nagamese": "Apuni laga bachha kontu school te purai kure.",
+          "wanchoLower": "Nang nowsa ea tem school ma eapu",
+          "wanchoUpper": "Nangsa ajong school ma nau tai-o?",
+          "konyak": "Nang he yim lan hanghi school me nyuo nang ki"
+        },
+        {
+          "hindi": "Aapko kya pareshani hai?",
+          "nagamese": "Apuni ke ki digdari ase.",
+          "wanchoLower": "Nang ma phang problem taicha-phe",
+          "wanchoUpper": "Nang chephang toitai tai-o?",
+          "konyak": "Nang hanghi te juteih mongshang pii shi ?"
+        }
+      ],
+      "36": [
+        {
+          "hindi": "Aap log sob thik hai?",
+          "nagamese": "Apuni khan sob bhal ase.",
+          "wanchoLower": "Hanzam mai mai wai ngi",
+          "wanchoUpper": "Nam mai-mai thangja?",
+          "konyak": "Niiman khangkhum pii mei-e hei ngoh nang pii ma?"
+        },
+        {
+          "hindi": "Aap ne khana khaya?",
+          "nagamese": "Apuni bhat khai se.",
+          "wanchoLower": "Nang ea phong sahdai mi",
+          "wanchoUpper": "Nang-e tam sah ma?",
+          "konyak": "Niiman e niik a hah yang pii shi ?"
+        }
+      ],
+      "37": [
+        {
+          "hindi": "Aap kya khaya?",
+          "nagamese": "Apuni ki khai se?",
+          "wanchoLower": "Nang ea tem sah",
+          "wanchoUpper": "Nange -phang sah-o?",
+          "konyak": "Nang e hanghi hah pii shi ?"
+        },
+        {
+          "hindi": "Aap kahan se aah rahe ho?",
+          "nagamese": "Apuni kot para ahi ase.",
+          "wanchoLower": "Nang ozong tepa haipu",
+          "wanchoUpper": "Nang ajong manne pai- o?",
+          "konyak": "Nang ampii ken me pii pei pii shi ?"
+        }
+      ],
+      "38": [
+        {
+          "hindi": "Kya kaam hai?",
+          "nagamese": "Ki kaam ase.",
+          "wanchoLower": "Tem mof tai",
+          "wanchoUpper": "Phang mon?",
+          "konyak": "Nang te hanghi wongpong nhoh nang ki?"
+        },
+        {
+          "hindi": "Thik hai achha se jana?",
+          "nagamese": "Thik hai bhal para jabi.",
+          "wanchoLower": "Jo mai mai pou lah nyi",
+          "wanchoUpper": "Joh, mai-mai pau-an",
+          "konyak": "eih mei mei tai yah"
+        }
+      ],
+      "39": [
+        {
+          "hindi": "Subh prabhat",
+          "nagamese": "Good Morning",
+          "wanchoLower": "Shedan mai hai",
+          "wanchoUpper": "Mai-mai thangja",
+          "konyak": "Niipmei"
+        },
+        {
+          "hindi": "Itni subah aap kahan se aye",
+          "nagamese": "Iman phuzurte apuni kote para ahise?",
+          "wanchoLower": "Shompoi kha omapa lo",
+          "wanchoUpper": "Homsa ma nang ajong manne pai-o?",
+          "konyak": "Teshin nupning shom me amte tai pii shi?"
+        }
+      ],
+      "40": [
+        {
+          "hindi": "Maa pitaji kaise hai",
+          "nagamese": "Ama Baba kinika ase?",
+          "wanchoLower": "Anu apa beley taipu",
+          "wanchoUpper": "Nangnu-Nangpa mai- mai thangja?",
+          "konyak": "Nyu hei pa lan hangke ngoh nangki?"
+        },
+        {
+          "hindi": "Ghar me sab thik hai",
+          "nagamese": "Ghor te sob bhal ase?",
+          "wanchoLower": "Ham ma pang wai amai mai mai tai cha",
+          "wanchoUpper": "Kakau-kamkha ma tabakja?",
+          "konyak": "Nok me khongkyum pii lan meie hei ngoh nang pii maa ?"
+        }
+      ],
+      "41": [
+        {
+          "hindi": "Didi bimar thi thik ho gayi",
+          "nagamese": "Bimar thaka didi bhal hoise?",
+          "wanchoLower": "Ana kakpa mai dai mi",
+          "wanchoUpper": "Aja kak mai ma?",
+          "konyak": "Onya tak e ngoh pii mei te ke."
+        },
+        {
+          "hindi": "Kitne din ho gaye aapko nhi dekha",
+          "nagamese": "Kiman din hoi jaise apuni ke dekha nai!",
+          "wanchoLower": "Abi ti nyih ngoi an pu nang chingan pa aa ongga pa",
+          "wanchoUpper": "Nang hangan le seba Nyih ma- len pii yang nangte anye pe.",
+          "konyak": ""
+        }
+      ],
+      "42": [
+        {
+          "hindi": "Aap kahan the",
+          "nagamese": "Kotethaki she apuni",
+          "wanchoLower": "Nang ozongkha ta tai o?",
+          "wanchoUpper": "Nang ajong ma chong- o?",
+          "konyak": "Nang ampii ken me ngoh eih?"
+        },
+        {
+          "hindi": "Nagaland se kahin bahar to nhi gaye the",
+          "nagamese": "Nagaland para kote bahar tu ja nai",
+          "wanchoLower": "Nagaland to pa ozong zong to ngo dow piya",
+          "wanchoUpper": "Longding manne aika pow chaam pau che?",
+          "konyak": "Nagaland mong me pii a- ak te ye ngai."
+        }
+      ],
+      "43": [
+        {
+          "hindi": "Thik hai ache se jana",
+          "nagamese": "Thik ase bhal para jabi",
+          "wanchoLower": "Jo tih mai mai pow lah oh",
+          "wanchoUpper": "Joh, mai-mai baih an",
+          "konyak": "Eih oh mei ye hei ai yah."
+        },
+        {
+          "hindi": "Phir mulaqat hogi/baad me milenge",
+          "nagamese": "Piche te arulog pabo de",
+          "wanchoLower": "Chat ley apong ngo ai aa/ jo phai ma apong ngo lah",
+          "wanchoUpper": "Chaam pong kai line jam hao hah me / phei me hao hah ma.",
+          "konyak": ""
+        }
+      ],
+      "44": [
+        {
+          "hindi": "Mujhe phone karna",
+          "nagamese": "Moi ke phone kori dibi de",
+          "wanchoLower": "Ku hato call hai oh",
+          "wanchoUpper": "Koi ka phone kai phe",
+          "konyak": "iite phone ne meang pha."
+        },
+        {
+          "hindi": "Mera phone no. Hai ki nhi",
+          "nagamese": "Moi laga phone number ase na nai?",
+          "wanchoLower": "Ku phon number tai chami",
+          "wanchoUpper": "Koi phone No. taija?",
+          "konyak": "iijing phone number ngoh ya ?"
+        }
+      ],
+      "45": [
+        {
+          "hindi": "Aap ke liye main prarthana karunga",
+          "nagamese": "Apuni karane moi prathana kuribo",
+          "wanchoLower": "Nang lanpak ma ke ea rang jap ai",
+          "wanchoUpper": "Koiye nang hanpak ma gangsom ai",
+          "konyak": "Nangjing ne yop kii peih."
+        },
+        {
+          "hindi": "Bhai aur behen kaise hai",
+          "nagamese": "Bhai aru bhoini keneka ase",
+          "wanchoLower": "Hanna lannow nyi baley tai pu",
+          "wanchoUpper": "Nangchai nangnau am mai-mai thangja?",
+          "konyak": "Nang nya, hei jei hangke ngoh nang ki?"
+        }
+      ],
+      "46": [
+        {
+          "hindi": "Ache se rehna",
+          "nagamese": "Bhal para thakibi",
+          "wanchoLower": "Mai main go lah nyi",
+          "wanchoUpper": "Mai -mai chong an ale",
+          "konyak": "Meie ngoh yah."
+        },
+        {
+          "hindi": "Aapko abhi kya acha lag raha hai",
+          "nagamese": "Apuni etiya ki bhal lagi ase",
+          "wanchoLower": "Nang Zong ma altiah tem mai ngo pu",
+          "wanchoUpper": "Nang jong ma phang mai-o?",
+          "konyak": "Nangte, sha -a hanghi mei nang ki?"
+        }
+      ],
+      "47": [
+        {
+          "hindi": "Aapse mil kar dil khush hua",
+          "nagamese": "Apuni ke log paikina mon khusi hoise",
+          "wanchoLower": "Nang phai apong lah ley mong mai ley",
+          "wanchoUpper": "Nang phe pong le mong maiga",
+          "konyak": "Nang phei hao e mong mei peih."
+        },
+        {
+          "hindi": "Corona se bachna",
+          "nagamese": "Corona para bachibi",
+          "wanchoLower": "Corona phai atria ngo lah nyi",
+          "wanchoUpper": "Corona soh-a thaten lah nyi",
+          "konyak": "Corona phei jai e nhoh yah."
+        }
+      ],
+      "48": [
+        {
+          "hindi": "Humesha mask pehenna",
+          "nagamese": "Hodai mask lagabi",
+          "wanchoLower": "Hopo ma mask lah ngo lah ngi",
+          "wanchoUpper": "Chunlop le kopdau chong an",
+          "konyak": "Hipak phe me mask shok yah"
+        },
+        {
+          "hindi": "Senitization karte rehna",
+          "nagamese": "Senitization kuri thakibi",
+          "wanchoLower": "Mai ley chak chuh ngo lah ngi",
+          "wanchoUpper": "Chau che tha le chong an",
+          "konyak": "Senitiration meang yange ngoh yah."
+        }
+      ],
+      "49": [
+        {
+          "hindi": "Kab hua",
+          "nagamese": "Kitiya hoishe?",
+          "wanchoLower": "Ongai hai pa ley",
+          "wanchoUpper": "Ma-e thang-o?",
+          "konyak": "Aope meangpii shi?"
+        },
+        {
+          "hindi": "Ishwar unki atma ko shanty de",
+          "nagamese": "Isor tai atma ke shanty diye",
+          "wanchoLower": "Rang ea chih atma lo shanty koh koh",
+          "wanchoUpper": "Jowan kau jumpu hajo hagong le ka-a ten an",
+          "konyak": "Kahwangpa iman yaha te nang woi yah."
+        }
+      ],
+      "50": [
+        {
+          "hindi": "Sham ko main garh aunga",
+          "nagamese": "Sham te moi ghor te ahibo",
+          "wanchoLower": "Honsong ea ku ham lo hai ai leh oh",
+          "wanchoUpper": "Cheja koi kam ma pai ai ngaih",
+          "konyak": "lin me tao nok te win kii peih."
+        },
+        {
+          "hindi": "Hospital se laya",
+          "nagamese": "Hospital para anise",
+          "wanchoLower": "Hospital lopa apai pu",
+          "wanchoUpper": "Hingkam manne paii",
+          "konyak": "Hospital, mepii yah"
+        }
+      ],
+      "51": [
+        {
+          "hindi": "Main abhi prarthana karunga",
+          "nagamese": "Moi etiya prathana kuribo",
+          "wanchoLower": "Ku ea alhah rangjop ai",
+          "wanchoUpper": "Koi ye ale gangsom ai",
+          "konyak": "Fao sha a yop kii ning."
+        },
+        {
+          "hindi": "Unki patni pehle hi mar geyi thi",
+          "nagamese": "Tai maiki poila mori jaise",
+          "wanchoLower": "Chih shako kai wai zee anna",
+          "wanchoUpper": "Kau goinu thau kah-o diphai",
+          "konyak": "E jing shoko ame miih tai tapii."
+        }
+      ],
+      "52": [
+        {
+          "hindi": "Aj dil khush nhi hai",
+          "nagamese": "Aji mon khushi nai",
+          "wanchoLower": "Angiyh mong mai mai",
+          "wanchoUpper": "Chenih mong man mai",
+          "konyak": "Tenyih tao mong ye mei."
+        },
+        {
+          "hindi": "Mere sath woh bahut din rahe the",
+          "nagamese": "Moi logote tai besi bin thakise",
+          "wanchoLower": "Ku phai tam ley chih rari ngo dow pa",
+          "wanchoUpper": "Koi phe maima chong vaih-ai",
+          "konyak": "Ea iiphei myih ma shen e ngoh yangki."
+        }
+      ],
+      "53": [
+        {
+          "hindi": "Isi karan jyada pyar ho gaya",
+          "nagamese": "Itu para besi morom hoi jaise",
+          "wanchoLower": "Eja hanpak ma ku to mong/ Kam lai pa",
+          "wanchoUpper": "Gathale maan mongkan pu",
+          "konyak": "Taoh jingne yeong ken peih."
+        },
+        {
+          "hindi": "Aap bhi jayenge wahan",
+          "nagamese": "Apuni bhi jabo tate?",
+          "wanchoLower": "Nang chu pow ang cha ekha to",
+          "wanchoUpper": "Nangje gaka che?",
+          "konyak": "Nang oh tai lak taoh kente."
+        }
+      ],
+      "54": [
+        {
+          "hindi": "Teen baje condolence hona hai",
+          "nagamese": "Tin baje te condolence hobole ase",
+          "wanchoLower": "Azam bakhe ea miting hoi ang ka",
+          "wanchoUpper": "Tin baji ma jop a puji ja.",
+          "konyak": "Khonta lem me condolences ngoh lok"
+        },
+        {
+          "hindi": "Robert aap kuch dhan denge kya",
+          "nagamese": "Robert apuni kiba donation dibole ase?",
+          "wanchoLower": "Robert nang ea mong koh ang cha",
+          "wanchoUpper": "Robert nange hingho che kauh aja?",
+          "konyak": "Robert nang-e hamgoh donation pha lak jiya?"
+        }
+      ],
+      "55": [
+        {
+          "hindi": "Mere se bhi das hazar rupay le lena",
+          "nagamese": "Moi para bhi dos hazar loi lobi",
+          "wanchoLower": "Ku anpa chu zatban lah lah",
+          "wanchoUpper": "Koi manne je jatban le lah an",
+          "konyak": "lijing oh haja pen yah te ke."
+        },
+        {
+          "hindi": "Chinta mat karo ishwar aapko dekhega",
+          "nagamese": "Chinta na koribi, isor apuni ke sabo",
+          "wanchoLower": "Mong tah hi jowan ea nang to hu lah ang poih",
+          "wanchoUpper": "Mongtah shang kahwang ne ngan ai ngaih",
+          "konyak": "Mong thahaam jowan nangte lei pha lak"
+        }
+      ],
+      "56": [
+        {
+          "hindi": "Dukh ke samay dil bada karo",
+          "nagamese": "Dukhiya time te mon dangor kuribi",
+          "wanchoLower": "Shik ngan pong ea mong chong koh",
+          "wanchoUpper": "Thang pong wante mong boh an",
+          "konyak": "Mongshang jama mongyong yah."
+        }
+      ]
+    }
+  }
